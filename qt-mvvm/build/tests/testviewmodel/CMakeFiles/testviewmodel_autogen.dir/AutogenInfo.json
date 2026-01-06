@@ -1,0 +1,199 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/testviewmodel_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : [],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/testviewmodel_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/testviewmodel_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_PRINTSUPPORT_LIB",
+		"QT_TESTCASE_BUILDDIR=\"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build\"",
+		"QT_TESTLIB_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/include",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_viewmodel",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/autogen/mvvm",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_model",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/thirdparty/qcustomplot",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtTest",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtPrintSupport",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/testviewmodel_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/CMakeFiles/testviewmodel_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testviewmodel/CMakeFiles/testviewmodel_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/TestAll.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/TestToyLayerItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/TestToyMultiLayerItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/TestToyParticleItem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/defaulteditorfactory.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/defaultviewmodel.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/labeldatarowstrategy.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/propertiesrowstrategy.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/propertyflatviewmodel.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/propertytableviewmodel.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/propertyviewmodel.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/scientificspinbox.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/standardchildrenstrategies.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/standardviewitems.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/topitemsviewmodel.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewitem.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelbase.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelcontroller.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelcontrollerbuilder.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelcontrollerfactory.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodeldelegate.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelfactory.test.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/testviewmodel/viewmodelutils.test.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

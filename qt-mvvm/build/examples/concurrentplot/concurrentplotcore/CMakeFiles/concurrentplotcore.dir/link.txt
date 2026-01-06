@@ -1,0 +1,2 @@
+/usr/bin/ar qc libconcurrentplotcore.a CMakeFiles/concurrentplotcore.dir/concurrentplotcore_autogen/mocs_compilation.cpp.o CMakeFiles/concurrentplotcore.dir/graphmodel.cpp.o CMakeFiles/concurrentplotcore.dir/graphpropertywidget.cpp.o CMakeFiles/concurrentplotcore.dir/graphwidget.cpp.o CMakeFiles/concurrentplotcore.dir/graphwidgettoolbar.cpp.o CMakeFiles/concurrentplotcore.dir/jobmanager.cpp.o CMakeFiles/concurrentplotcore.dir/mainwindow.cpp.o CMakeFiles/concurrentplotcore.dir/toysimulation.cpp.o
+/usr/bin/ranlib libconcurrentplotcore.a

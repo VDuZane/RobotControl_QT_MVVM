@@ -1,0 +1,255 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/nodeeditorcore_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableitem.h",
+			"Mu",
+			"EWIEGA46WW/moc_connectableitem.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableitemcontroller.h",
+			"Mu",
+			"EWIEGA46WW/moc_connectableitemcontroller.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableview.h",
+			"Mu",
+			"EWIEGA46WW/moc_connectableview.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsscene.h",
+			"Mu",
+			"EWIEGA46WW/moc_graphicsscene.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsscenecontroller.h",
+			"Mu",
+			"EWIEGA46WW/moc_graphicsscenecontroller.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsview.h",
+			"Mu",
+			"EWIEGA46WW/moc_graphicsview.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/mainwindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/modeleditorwidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_modeleditorwidget.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodeconnection.h",
+			"Mu",
+			"EWIEGA46WW/moc_nodeconnection.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodecontroller.h",
+			"Mu",
+			"EWIEGA46WW/moc_nodecontroller.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodeport.h",
+			"Mu",
+			"EWIEGA46WW/moc_nodeport.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/pieceslist.h",
+			"Mu",
+			"EWIEGA46WW/moc_pieceslist.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/portinfo.h",
+			"Mu",
+			"EWIEGA46WW/moc_portinfo.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/propertywidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_propertywidget.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/sampleitems.h",
+			"Mu",
+			"EWIEGA46WW/moc_sampleitems.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/samplemodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_samplemodel.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/sceneutils.h",
+			"Mu",
+			"EWIEGA46WW/moc_sceneutils.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/nodeeditorcore_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/nodeeditorcore_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_view",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/autogen/mvvm",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_viewmodel",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_model",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/nodeeditorcore_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/CMakeFiles/nodeeditorcore_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/nodeeditor/nodeeditorcore/CMakeFiles/nodeeditorcore_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableitem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableitemcontroller.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/connectableview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsscene.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsscenecontroller.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/graphicsview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/mainwindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/modeleditorwidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodeconnection.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodecontroller.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/nodeport.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/pieceslist.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/propertywidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/sampleitems.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/samplemodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/nodeeditor/nodeeditorcore/sceneutils.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

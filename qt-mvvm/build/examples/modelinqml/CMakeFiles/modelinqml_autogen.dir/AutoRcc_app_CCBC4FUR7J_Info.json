@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqml_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/modelinqml",
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqml_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/modelinqml/qml/main.qml"
+	],
+	"LOCK_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/CMakeFiles/modelinqml_autogen.dir/AutoRcc_app_CCBC4FUR7J_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "app" ],
+	"OUTPUT_CHECKSUM" : "CCBC4FUR7J",
+	"OUTPUT_NAME" : "qrc_app.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/CMakeFiles/modelinqml_autogen.dir/AutoRcc_app_CCBC4FUR7J_Used.txt",
+	"SOURCE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/modelinqml/qml/app.qrc",
+	"VERBOSITY" : 0
+}

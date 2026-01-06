@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtreeviewscore.a CMakeFiles/treeviewscore.dir/treeviewscore_autogen/mocs_compilation.cpp.o CMakeFiles/treeviewscore.dir/mainwindow.cpp.o CMakeFiles/treeviewscore.dir/sampleeditorwidget.cpp.o CMakeFiles/treeviewscore.dir/sampleitems.cpp.o CMakeFiles/treeviewscore.dir/samplemodel.cpp.o
+/usr/bin/ranlib libtreeviewscore.a

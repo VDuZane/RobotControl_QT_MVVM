@@ -1,0 +1,2 @@
+/usr/bin/ar qc libtestmachinery.a CMakeFiles/testmachinery.dir/testmachinery_autogen/mocs_compilation.cpp.o CMakeFiles/testmachinery.dir/folderbasedtest.cpp.o CMakeFiles/testmachinery.dir/mockwidgets.cpp.o CMakeFiles/testmachinery.dir/test_utils.cpp.o CMakeFiles/testmachinery.dir/toyitems.cpp.o CMakeFiles/testmachinery.dir/toymodel.cpp.o CMakeFiles/testmachinery.dir/widgetbasedtest.cpp.o
+/usr/bin/ranlib libtestmachinery.a

@@ -1,0 +1,194 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/graphicsproxycore_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/axesrectangleview.h",
+			"Mu",
+			"EWIEGA46WW/moc_axesrectangleview.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/graphicsscene.h",
+			"Mu",
+			"EWIEGA46WW/moc_graphicsscene.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/graphicsview.h",
+			"Mu",
+			"EWIEGA46WW/moc_graphicsview.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/mainwindow.h",
+			"Mu",
+			"EWIEGA46WW/moc_mainwindow.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestcontroller.h",
+			"Mu",
+			"EWIEGA46WW/moc_regionofinterestcontroller.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestitem.h",
+			"Mu",
+			"EWIEGA46WW/moc_regionofinterestitem.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestview.h",
+			"Mu",
+			"EWIEGA46WW/moc_regionofinterestview.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenemodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_scenemodel.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenepropertywidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_scenepropertywidget.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenewidget.h",
+			"Mu",
+			"EWIEGA46WW/moc_scenewidget.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/sizehandleelement.h",
+			"Mu",
+			"EWIEGA46WW/moc_sizehandleelement.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/graphicsproxycore_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/graphicsproxycore_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : [ "QT_CORE_LIB", "QT_GUI_LIB", "QT_NO_DEBUG", "QT_WIDGETS_LIB" ],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_view",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/autogen/mvvm",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_viewmodel",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_model",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu",
+		"/usr/include"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/graphicsproxycore_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/CMakeFiles/graphicsproxycore_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/graphicsproxy/graphicsproxycore/CMakeFiles/graphicsproxycore_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/axesrectangleview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/graphicsscene.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/graphicsview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/mainwindow.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestcontroller.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestitem.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/regionofinterestview.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenemodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenepropertywidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/scenewidget.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/graphicsproxy/graphicsproxycore/sizehandleelement.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

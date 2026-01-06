@@ -1,0 +1,22 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/collidingmice/collidingmice_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/collidingmice",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/collidingmice",
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/collidingmice/collidingmice_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/collidingmice/collidingmicecore/images/cheese.jpg"
+	],
+	"LOCK_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/collidingmice/CMakeFiles/collidingmice_autogen.dir/AutoRcc_mice_KVYWZDEVQK_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "mice" ],
+	"OUTPUT_CHECKSUM" : "KVYWZDEVQK",
+	"OUTPUT_NAME" : "qrc_mice.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/collidingmice/CMakeFiles/collidingmice_autogen.dir/AutoRcc_mice_KVYWZDEVQK_Used.txt",
+	"SOURCE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/collidingmice/collidingmicecore/mice.qrc",
+	"VERBOSITY" : 0
+}

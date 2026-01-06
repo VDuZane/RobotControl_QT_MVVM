@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplotcolormapcore.a CMakeFiles/plotcolormapcore.dir/plotcolormapcore_autogen/mocs_compilation.cpp.o CMakeFiles/plotcolormapcore.dir/colormapmodel.cpp.o CMakeFiles/plotcolormapcore.dir/colormappropertywidget.cpp.o CMakeFiles/plotcolormapcore.dir/colormapwidget.cpp.o CMakeFiles/plotcolormapcore.dir/mainwindow.cpp.o
+/usr/bin/ranlib libplotcolormapcore.a

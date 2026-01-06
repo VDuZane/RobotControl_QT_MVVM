@@ -1,0 +1,2 @@
+/usr/bin/ar qc libflateditorcore.a CMakeFiles/flateditorcore.dir/flateditorcore_autogen/mocs_compilation.cpp.o CMakeFiles/flateditorcore.dir/demowidget.cpp.o CMakeFiles/flateditorcore.dir/mainwindow.cpp.o CMakeFiles/flateditorcore.dir/sampleitems.cpp.o CMakeFiles/flateditorcore.dir/samplemodel.cpp.o
+/usr/bin/ranlib libflateditorcore.a

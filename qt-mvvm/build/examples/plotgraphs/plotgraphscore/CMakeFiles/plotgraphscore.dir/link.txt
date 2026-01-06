@@ -1,0 +1,2 @@
+/usr/bin/ar qc libplotgraphscore.a CMakeFiles/plotgraphscore.dir/plotgraphscore_autogen/mocs_compilation.cpp.o CMakeFiles/plotgraphscore.dir/graphmodel.cpp.o CMakeFiles/plotgraphscore.dir/graphpropertywidget.cpp.o CMakeFiles/plotgraphscore.dir/graphwidget.cpp.o CMakeFiles/plotgraphscore.dir/mainwindow.cpp.o
+/usr/bin/ranlib libplotgraphscore.a

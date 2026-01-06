@@ -1,0 +1,159 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/testmachinery_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery",
+	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
+	"CMAKE_LIST_FILES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/CMakeLists.txt"
+	],
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"DEP_FILE" : "",
+	"DEP_FILE_RULE_NAME" : "",
+	"HEADERS" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/folderbasedtest.h",
+			"Mu",
+			"EWIEGA46WW/moc_folderbasedtest.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/google_test.h",
+			"Mu",
+			"EWIEGA46WW/moc_google_test.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/mockinterfaces.h",
+			"Mu",
+			"EWIEGA46WW/moc_mockinterfaces.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/mockwidgets.h",
+			"Mu",
+			"EWIEGA46WW/moc_mockwidgets.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/test_utils.h",
+			"Mu",
+			"EWIEGA46WW/moc_test_utils.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/toyitems.h",
+			"Mu",
+			"EWIEGA46WW/moc_toyitems.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/toymodel.h",
+			"Mu",
+			"EWIEGA46WW/moc_toymodel.cpp",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/widgetbasedtest.h",
+			"Mu",
+			"EWIEGA46WW/moc_widgetbasedtest.cpp",
+			null
+		]
+	],
+	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/testmachinery_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/testmachinery_autogen/mocs_compilation.cpp",
+	"MOC_DEFINITIONS" : 
+	[
+		"QT_CORE_LIB",
+		"QT_GUI_LIB",
+		"QT_NO_DEBUG",
+		"QT_TESTCASE_BUILDDIR=\"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build\"",
+		"QT_TESTLIB_LIB",
+		"QT_WIDGETS_LIB"
+	],
+	"MOC_DEPEND_FILTERS" : 
+	[
+		[
+			"Q_PLUGIN_METADATA",
+			"[\n][ \t]*Q_PLUGIN_METADATA[ \t]*\\([^\\)]*FILE[ \t]*\"([^\"]+)\""
+		]
+	],
+	"MOC_INCLUDES" : 
+	[
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/autogen/mvvm",
+		"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/source/libmvvm_model",
+		"/usr/include/x86_64-linux-gnu/qt5",
+		"/usr/include/x86_64-linux-gnu/qt5/QtCore",
+		"/usr/lib/x86_64-linux-gnu/qt5/mkspecs/linux-g++",
+		"/usr/include/x86_64-linux-gnu/qt5/QtTest",
+		"/usr/include/x86_64-linux-gnu/qt5/QtWidgets",
+		"/usr/include/x86_64-linux-gnu/qt5/QtGui",
+		"/usr/include",
+		"/usr/include/c++/11",
+		"/usr/include/x86_64-linux-gnu/c++/11",
+		"/usr/include/c++/11/backward",
+		"/usr/lib/gcc/x86_64-linux-gnu/11/include",
+		"/usr/local/include",
+		"/usr/include/x86_64-linux-gnu"
+	],
+	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
+	"MOC_OPTIONS" : [],
+	"MOC_PATH_PREFIX" : false,
+	"MOC_PREDEFS_CMD" : 
+	[
+		"/usr/bin/c++",
+		"-dM",
+		"-E",
+		"-c",
+		"/usr/share/cmake-3.22/Modules/CMakeCXXCompilerABI.cpp"
+	],
+	"MOC_PREDEFS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/testmachinery_autogen/moc_predefs.h",
+	"MOC_RELAXED_MODE" : false,
+	"MOC_SKIP" : [],
+	"MULTI_CONFIG" : false,
+	"PARALLEL" : 24,
+	"PARSE_CACHE_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/CMakeFiles/testmachinery_autogen.dir/ParseCache.txt",
+	"QT_MOC_EXECUTABLE" : "/usr/lib/qt5/bin/moc",
+	"QT_UIC_EXECUTABLE" : "",
+	"QT_VERSION_MAJOR" : 5,
+	"QT_VERSION_MINOR" : 15,
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/libtestmachinery/CMakeFiles/testmachinery_autogen.dir/AutogenUsed.txt",
+	"SOURCES" : 
+	[
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/folderbasedtest.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/mockwidgets.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/test_utils.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/toyitems.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/toymodel.cpp",
+			"Mu",
+			null
+		],
+		[
+			"/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/tests/libtestmachinery/widgetbasedtest.cpp",
+			"Mu",
+			null
+		]
+	],
+	"VERBOSITY" : 0
+}

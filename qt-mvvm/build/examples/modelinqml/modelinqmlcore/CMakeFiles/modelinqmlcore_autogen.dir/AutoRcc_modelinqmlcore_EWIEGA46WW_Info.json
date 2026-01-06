@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqmlcore/modelinqmlcore_autogen",
+	"CMAKE_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqmlcore",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/modelinqml/modelinqmlcore",
+	"CMAKE_SOURCE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm",
+	"INCLUDE_DIR" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqmlcore/modelinqmlcore_autogen/include",
+	"INPUTS" : [],
+	"LOCK_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqmlcore/CMakeFiles/modelinqmlcore_autogen.dir/AutoRcc_modelinqmlcore_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "modelinqmlcore" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_modelinqmlcore.cpp",
+	"RCC_EXECUTABLE" : "/usr/lib/qt5/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/examples/modelinqml/modelinqmlcore/CMakeFiles/modelinqmlcore_autogen.dir/AutoRcc_modelinqmlcore_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/modelinqml/modelinqmlcore/modelinqmlcore.qrc",
+	"VERBOSITY" : 0
+}

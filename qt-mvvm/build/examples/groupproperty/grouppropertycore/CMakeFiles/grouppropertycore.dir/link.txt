@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgrouppropertycore.a CMakeFiles/grouppropertycore.dir/grouppropertycore_autogen/mocs_compilation.cpp.o CMakeFiles/grouppropertycore.dir/mainwindow.cpp.o CMakeFiles/grouppropertycore.dir/items.cpp.o CMakeFiles/grouppropertycore.dir/widget.cpp.o
+/usr/bin/ranlib libgrouppropertycore.a

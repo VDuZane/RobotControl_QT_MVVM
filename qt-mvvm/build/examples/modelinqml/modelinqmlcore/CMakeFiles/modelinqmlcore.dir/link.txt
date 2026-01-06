@@ -1,0 +1,2 @@
+/usr/bin/ar qc libmodelinqmlcore.a CMakeFiles/modelinqmlcore.dir/modelinqmlcore_autogen/mocs_compilation.cpp.o CMakeFiles/modelinqmlcore.dir/backend.cpp.o CMakeFiles/modelinqmlcore.dir/particlemodel.cpp.o CMakeFiles/modelinqmlcore.dir/particleviewmodel.cpp.o CMakeFiles/modelinqmlcore.dir/modelinqmlcore_autogen/EWIEGA46WW/qrc_modelinqmlcore.cpp.o
+/usr/bin/ranlib libmodelinqmlcore.a

@@ -1,0 +1,5 @@
+if(EXISTS "/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testmodel/testmodel[1]_tests.cmake")
+  include("/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/build/tests/testmodel/testmodel[1]_tests.cmake")
+else()
+  add_test(testmodel_NOT_BUILT testmodel_NOT_BUILT)
+endif()

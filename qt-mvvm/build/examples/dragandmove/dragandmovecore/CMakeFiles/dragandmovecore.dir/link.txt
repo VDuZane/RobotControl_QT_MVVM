@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdragandmovecore.a CMakeFiles/dragandmovecore.dir/dragandmovecore_autogen/mocs_compilation.cpp.o CMakeFiles/dragandmovecore.dir/containereditorwidget.cpp.o CMakeFiles/dragandmovecore.dir/dragviewmodel.cpp.o CMakeFiles/dragandmovecore.dir/mainwindow.cpp.o CMakeFiles/dragandmovecore.dir/modeleditorwidget.cpp.o CMakeFiles/dragandmovecore.dir/sampleitems.cpp.o CMakeFiles/dragandmovecore.dir/samplemodel.cpp.o
+/usr/bin/ranlib libdragandmovecore.a

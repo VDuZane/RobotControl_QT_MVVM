@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcelleditorscore.a CMakeFiles/celleditorscore.dir/celleditorscore_autogen/mocs_compilation.cpp.o CMakeFiles/celleditorscore.dir/mainwindow.cpp.o CMakeFiles/celleditorscore.dir/modeleditorwidget.cpp.o CMakeFiles/celleditorscore.dir/samplemodel.cpp.o
+/usr/bin/ranlib libcelleditorscore.a

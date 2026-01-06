@@ -1,0 +1,4 @@
+/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/robotcontrol/build/CMakeFiles/RobotControlMVVM.dir
+/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/robotcontrol/build/CMakeFiles/edit_cache.dir
+/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/robotcontrol/build/CMakeFiles/rebuild_cache.dir
+/home/vdu/99.study_code/qt/RobotControl_QT_MVVM/qt-mvvm/examples/robotcontrol/build/CMakeFiles/RobotControlMVVM_autogen.dir
